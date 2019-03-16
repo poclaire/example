@@ -6,7 +6,7 @@ import numpy as np
 
 
 def row_modified(row):
-    row['c']=a
+    row['c']=ajjj
     return row
 
 if __name__ == "__main__":
