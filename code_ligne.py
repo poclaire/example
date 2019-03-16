@@ -1,12 +1,12 @@
 import pandas as pd
 import os
-import numpy as numpy
-import librosa 
+import numpy as np 
+
 
 
 
 def row_modified(row):
-    row['c']=aa
+    row['c']=a
     return row
 
 if __name__ == "__main__":
